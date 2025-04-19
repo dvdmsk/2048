@@ -3,6 +3,8 @@
 A fully functional and responsive implementation of the legendary 2048 puzzle game.
 Challenge yourself by merging tiles, reaching 2048, and mastering the mechanics behind every move.
 
+🔗 [Live Demo](https://dvdmsk.github.io/2048/)
+
 ## 🧩 Gameplay & Demo
 
 - 🎮 **4×4 grid puzzle** — merge equal tiles to reach 2048
