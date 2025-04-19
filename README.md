@@ -40,8 +40,8 @@ To run the project locally:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/2048-game.git
-    cd 2048-game
+    git clone https://github.com/dvdmsk/2048.git
+    cd 2048
     ```
 
 2. **Open the game in your browser**
@@ -59,7 +59,7 @@ To run the project locally:
   - `moveLeft()`, `moveRight()`, `moveUp()`, `moveDown()`
   - `getState()`, `getScore()`, `getStatus()`
   - `start()` and `restart()` methods for full control
-- `/src/main.js` — handles UI rendering and DOM interactions
+- `/src/scripts/main.js` — handles UI rendering and DOM interactions
 - `/src/index.html` — game UI with predefined CSS classes
 - Supports CSS class conventions like `field-cell--%value%` for tiles
 - `keydown` event listener used for capturing player moves
