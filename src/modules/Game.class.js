@@ -333,7 +333,9 @@ class Game {
     for (let i = 0; i < this._state.length; i++) {
       for (let j = 0; j < this._state[i].length; j++) {
         if (this._state[i][j] === 0) {
-          freeCell.push({ x: j, y: i });
+          freeCell.push({
+            x: j, y: i,
+          });
         }
       }
     }
